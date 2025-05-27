@@ -43,6 +43,9 @@ Proje kapsamında, Random Forest sınıflandırma algoritması kullanılmıştı
 Model girdi değişkenleri:
 
 -Cinsiyet
+
 -Mevsim
+
 -Kullanım amacı
+
 -Hissedilen sıcaklık aralığı
