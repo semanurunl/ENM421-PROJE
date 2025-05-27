@@ -5,7 +5,7 @@ Bu proje, kullanıcının yaşadığı şehirdeki güncel hava durumuna, cinsiye
 
 
  
- Proje Özeti
+ Proje Özeti:
  
 -Gerçek zamanlı hava durumu verileri WeatherAPI üzerinden alınır.
 
@@ -17,7 +17,7 @@ Bu proje, kullanıcının yaşadığı şehirdeki güncel hava durumuna, cinsiye
 
 
 
-Kullanılan Teknolojiler
+Kullanılan Teknolojiler:
 
 -Python
 
@@ -30,7 +30,8 @@ Kullanılan Teknolojiler
 -WeatherAPI (Gerçek zamanlı hava verisi)
 
 
-Makine Öğrenmesi Yöntemi
+Makine Öğrenmesi Yöntemi:
+
 Proje kapsamında, Random Forest sınıflandırma algoritması kullanılmıştır. Kıyafet önerileri üç ana kategoriye ayrılmış ve her biri için ayrı model eğitilmiştir:
 
 -Topwear (T-shirt, Sweatshirt, Ceket vb.)
@@ -40,6 +41,7 @@ Proje kapsamında, Random Forest sınıflandırma algoritması kullanılmıştı
 -Footwear (Spor ayakkabı, Bot, Sandalet vb.)
 
 Model girdi değişkenleri:
+
 -Cinsiyet
 -Mevsim
 -Kullanım amacı
