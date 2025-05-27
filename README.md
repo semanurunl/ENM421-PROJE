@@ -3,6 +3,7 @@ Hava Durumuna Göre Kıyafet Öneri Sistemi
 Bu proje, kullanıcının yaşadığı şehirdeki güncel hava durumuna, cinsiyetine ve kıyafeti kullanacağı amaca göre en uygun kıyafet önerilerini sunan bir sistemdir. Python ile geliştirilmiş olup, Random Forest algoritması, hava durumu API'si ve Gradio arayüzü ile entegre çalışmaktadır.
 
  Proje Özeti
+ 
 -Gerçek zamanlı hava durumu verileri WeatherAPI üzerinden alınır.
 
 -Kullanıcının girdiği bilgiler doğrultusunda (şehir, cinsiyet, kullanım amacı) model girdileri oluşturulur.
